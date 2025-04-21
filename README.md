@@ -7,3 +7,4 @@ This repository contains different data science projects, where there I applied 
 * Multiple regression to predict taxi fares, data that would be used as part of a suite of models to optimize revenue for the New York Taxi and Limousine Commission and its drivers
 * Classification of Salifort Motors data: built a logistic regression or a tree-based machine learning model that helps them predict whether an employee will leave and identify which factors are most influential. These insights can help HR make decisions to improve employee retention.
 * Biodiversity Analysis, using the National Park Service Dataset.
+* Prediction model if a patient have diabetes or not, based on given diagnostice measurements, using XGBOOST classifier.
