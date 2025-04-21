@@ -8,3 +8,5 @@ This repository contains different data science projects, where there I applied 
 * Classification of Salifort Motors data: built a logistic regression or a tree-based machine learning model that helps them predict whether an employee will leave and identify which factors are most influential. These insights can help HR make decisions to improve employee retention.
 * Biodiversity Analysis, using the National Park Service Dataset.
 * Prediction model if a patient have diabetes or not, based on given diagnostice measurements, using XGBOOST classifier.
+* Cancer cells prediction, using  Support Vector Machine, based on cell morphology.
+  
