@@ -1,6 +1,6 @@
 # Data Science
 
-This repository contains different data science projects, where there I applied different ML techniques such as Multi-regression models. logistic regression models, tree-based models, XGBOOST model in order to provide business solutions to the problems required. 
+This repository contains different data science projects, where there I applied ETL techniques and different ML techniques such as Multi-regression models. logistic regression models, tree-based models, XGBOOST model in order to provide business solutions to the problems required. 
 
 * Classification of TikTok videos: Used statsmodels and scikit-learn to predict whether videos presented claims or opinions to improve triaging process of videos for human review 
 * Classification of Waze data: Built decision tree, random forest, and XGBoost to predict Waze user churn.
