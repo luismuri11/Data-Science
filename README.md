@@ -1,4 +1,4 @@
-# Data_Analytics
+# Data Analytics
 
 This repository is part of the Google Advanced Data Analytics Professional Certificate Program offered by Google.
 This contain four capstone projects:
