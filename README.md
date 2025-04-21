@@ -1,4 +1,4 @@
-# Data Analytics
+# Data Science
 
 This repository contains different data science projects, where there I applied different ML techniques such as Multi-regression models. logistic regression models, tree-based models, XGBOOST model in order to provide business solutions to the problems required. 
 
